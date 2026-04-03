@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. Calculate the service quote based on vehicle distance, severity of the $RUL$, and local shop availability.
+Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
 
 RULES
 1. Audit touched files first and identify regressions.
