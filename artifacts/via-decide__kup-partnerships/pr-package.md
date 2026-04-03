@@ -1,9 +1,9 @@
-Branch: simba/build-the-carbon-credit-oracle-in-srcfinsustaina
-Title: Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calcul...
+Branch: simba/build-the-sovereign-liquidity-pool-in-srcfinpool
+Title: Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
+- Goal: Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
