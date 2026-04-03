@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Create a high-signal visualization that tracks: 1) Total Highway Miles Monitored, 2) Total Blowouts Prevented (based on Shadow Mode data), and 3) Total Carbon Footprint reduction from optimized tire maintenance.
+Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Generate 10 simultaneous "Critical Under-Inflation" alerts and verify that the ViaDecide engine can find 10 unique, geolocated repair services within 5 seconds.
 
 RULES
 1. Audit touched files first and identify regressions.
