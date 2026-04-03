@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Partner Case Study' generator in src/docs/nvidia-case-study.js. This module must pull hardware-in-the-loop (HITL) metrics-specifically power efficiency, GPU utilization, and accuracy under 48°C heat-and format them for an NVIDIA DeepStream/Jetson case study.
+Implement the 'Fleet Revenue Manager' in src/billing/revenue-dashboard.js. Create a multi-region view that tracks real-time revenue from 20+ lanes. It must calculate uptime, detection accuracy per lane, and generate automated invoices for NHAI or private highway operators.
 
 RULES
 1. Audit touched files first and identify regressions.
