@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-partnerships",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-sovereign-payout-engine-in-srcfindao-s",
+  "branch": "simba/implement-the-fleet-intelligence-api-in-srcapifl",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
