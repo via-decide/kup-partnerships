@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatically calculate the "Economic Value Added" (EVA) for every confirmed anomaly.
+Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This agent must pull the following metrics: 1) Unit Cost per Passage, 2) Token Efficiency (97%), and 3) Physical Drift Accuracy (92%).
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+- The output must be a 10-slide structure focused on 'The End of the Interface Illusion.' - The agent must use the 'Sovereign' tone-grounded in infrastructure, not hype. - Log "PITCH ASSETS GENERATED: EFFICIENCY_MOAT.PDF".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
