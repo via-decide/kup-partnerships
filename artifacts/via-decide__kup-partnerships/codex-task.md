@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Generate 10 simultaneous "Critical Under-Inflation" alerts and verify that the ViaDecide engine can find 10 unique, geolocated repair services within 5 seconds.
+Implement the 'Kutch-Discovery Scraper' in src/data/local-discovery.js. Populate the ONDC mock-registry with the coordinates and service profiles of the first 50 tyre-repair stations along the NH-41 (Kutch/Anjar stretch).
 
 CONSTRAINTS
-Calculate the "Strategy Latency" (Time from detection to discovery). The 'Hanuman' execution wing must log these as "Mock Revenue Events" to verify the billing ledger.
+When the 'First Passage Validator' detects an anomaly, the system must now output: "ACTION: Recommended Service at [Shop Name], [Distance] km away." Use the Sovereign theme to log "LOCAL COMMERCE LINKED".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
