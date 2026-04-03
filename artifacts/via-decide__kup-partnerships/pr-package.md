@@ -1,9 +1,9 @@
-Branch: simba/design-the-industry-partnership-model-infrastruc
-Title: Design the Industry Partnership Model. INFRASTRUCTURE PARTNER: Nation...
+Branch: simba/build-the-integration-specialist-agent-template-
+Title: Build 'The Integration Specialist' Agent Template in src/templates/in...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: By Month 1 end, KUP has credible partners backing the MVP. Investors notice.
+- Goal: Build 'The Integration Specialist' Agent Template in src/templates/integration-specialist.json. Configure the prompt to act as the liaison API for NHAI highway pilots and Deendayal Port data ingestion.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

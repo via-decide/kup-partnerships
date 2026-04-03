@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Design the Industry Partnership Model. INFRASTRUCTURE PARTNER: National Highways Authority of India (NHAI)
+Build 'The Integration Specialist' Agent Template in src/templates/integration-specialist.json. Configure the prompt to act as the liaison API for NHAI highway pilots and Deendayal Port data ingestion.
 
 RULES
 1. Audit touched files first and identify regressions.
