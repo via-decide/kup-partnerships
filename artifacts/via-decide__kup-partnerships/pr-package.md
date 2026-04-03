@@ -1,9 +1,9 @@
-Branch: simba/implement-the-ondc-stress-test-in-srctestcommerc
-Title: Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Gener...
+Branch: simba/implement-the-kutch-discovery-scraper-in-srcdata
+Title: Implement the 'Kutch-Discovery Scraper' in src/data/local-discovery.j...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Generate 10 simultaneous "Critical Under-Inflation" alerts and verify that the ViaDecide engine can find 10 unique, geolocated repair services within 5 seconds.
+- Goal: Implement the 'Kutch-Discovery Scraper' in src/data/local-discovery.js. Populate the ONDC mock-registry with the coordinates and service profiles of the first 50 tyre-repair stations along the NH-41 (Kutch/Anjar stretch).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
