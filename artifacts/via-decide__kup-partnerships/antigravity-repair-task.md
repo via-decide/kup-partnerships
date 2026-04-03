@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
+Implement the 'Infrastructure Export Gateway' in src/global/export-adapter.js.
 
 RULES
 1. Audit touched files first and identify regressions.

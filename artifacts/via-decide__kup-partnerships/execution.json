@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-partnerships",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-sovereign-liquidity-pool-in-srcfinpool",
+  "branch": "simba/implement-the-infrastructure-export-gateway-in-s",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

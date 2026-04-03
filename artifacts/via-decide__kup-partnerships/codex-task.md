@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
+Implement the 'Infrastructure Export Gateway' in src/global/export-adapter.js.
 
 CONSTRAINTS
-- Implement a 'Stake-for-Safety' mechanism.
+- Translate KUP infrastructure telemetry into: EU ITS standards US DOT V2X format ISO mobility data schema - Create export-ready compliance manifest. - Log "INFRA_EXPORT_READY: GLOBAL_PROTOCOL_COMPATIBLE".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
