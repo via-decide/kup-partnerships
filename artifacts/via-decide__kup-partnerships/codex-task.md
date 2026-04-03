@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'ONDC Revenue Simulator' in src/bridge/revenue-test.js. For every confirmed anomaly on the NH-41 stretch, simulate a service request to the nearest Kutch tyre shop and calculate the 'Safety Commission.'
+Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js. When the 'Hysteresis Machine' confirms a CRITICAL anomaly, generate a signed ONDC "Request for Quote" (RFQ) for the 3 nearest tyre repair facilities in Anjar/Kutch.
 
 CONSTRAINTS
-Log "SHADOW REVENUE GENERATED: ₹[X]". This must be the primary metric for the 'Sovereign' Friday Sync report.
+Calculate the "Potential Downtime Saved" (in hours) and include it in the RFQ metadata to increase shop conversion rates.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
