@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Create the 'B2B Intake Service' in src/services/hanuman-intake.js. Develop a secure lead-generation API that captures MSME requirements (e.g., Excel automation, ONDC onboarding).
+Build the 'Pilot Site Mapper' in src/docs/site-survey-gen.js. [span_15](start_span)[span_16](start_span)This tool must generate a technical layout for a 1-km stretch of highway, detailing where sensors, edge nodes (Jetson Orins), and cabinets will be placed[span_15](end_span)[span_16](end_span). [span_17](start_span)constraints: Include cost-per-lane quantifications as required for NHAI negotiations[span_17](end_span). Output the report as a "Sovereign Infrastructure Prospectus."
 
 CONSTRAINTS
-Integrate a PhonePe "Commitment Fee" (₹500) that must be paid before the request is sent to your admin dashboard. [span_5](start_span)This filters for "serious" business leads only, protecting your 'Decision Budget'[span_5](end_span).
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
