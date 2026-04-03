@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js. When the 'Hysteresis Machine' confirms a CRITICAL anomaly, generate a signed ONDC "Request for Quote" (RFQ) for the 3 nearest tyre repair facilities in Anjar/Kutch.
+Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatically calculate the "Economic Value Added" (EVA) for every confirmed anomaly.
 
 RULES
 1. Audit touched files first and identify regressions.
