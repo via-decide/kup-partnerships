@@ -1,9 +1,9 @@
-Branch: simba/implement-the-fleet-revenue-manager-in-srcbillin
-Title: Implement the 'Fleet Revenue Manager' in src/billing/revenue-dashboar...
+Branch: simba/develop-the-ondc-commerce-bridge-in-srccommerceo
+Title: Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [s...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Fleet Revenue Manager' in src/billing/revenue-dashboard.js. Create a multi-region view that tracks real-time revenue from 20+ lanes. It must calculate uptime, detection accuracy per lane, and generate automated invoices for NHAI or private highway operators.
+- Goal: Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [span_10](start_span)When the KUP system detects a high volume of tire anomalies (under-inflation), trigger a 'ViaDecide' request to find the nearest ONDC-listed tire repair services or inventory[span_10](end_span).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
