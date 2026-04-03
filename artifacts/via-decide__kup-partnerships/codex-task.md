@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Create a high-signal visualization that tracks: 1) Total Highway Miles Monitored, 2) Total Blowouts Prevented (based on Shadow Mode data), and 3) Total Carbon Footprint reduction from optimized tire maintenance.
+Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Generate 10 simultaneous "Critical Under-Inflation" alerts and verify that the ViaDecide engine can find 10 unique, geolocated repair services within 5 seconds.
 
 CONSTRAINTS
-Use a "Dark-Mode Infrastructure" UI. Ensure the data is pulled directly from the 'Self-Healing Fleet Monitor' to guarantee 100% accuracy for government audits.
+Calculate the "Strategy Latency" (Time from detection to discovery). The 'Hanuman' execution wing must log these as "Mock Revenue Events" to verify the billing ledger.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

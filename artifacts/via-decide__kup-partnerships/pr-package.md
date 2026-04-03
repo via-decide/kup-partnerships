@@ -1,9 +1,9 @@
-Branch: simba/build-the-sovereign-safety-dashboard-in-srcwebpu
-Title: Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Crea...
+Branch: simba/implement-the-ondc-stress-test-in-srctestcommerc
+Title: Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Gener...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Create a high-signal visualization that tracks: 1) Total Highway Miles Monitored, 2) Total Blowouts Prevented (based on Shadow Mode data), and 3) Total Carbon Footprint reduction from optimized tire maintenance.
+- Goal: Implement the 'ONDC Stress-Test' in src/test/commerce-burst.js. Generate 10 simultaneous "Critical Under-Inflation" alerts and verify that the ViaDecide engine can find 10 unique, geolocated repair services within 5 seconds.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
