@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build 'The Integration Specialist' Agent Template in src/templates/integration-specialist.json. Configure the prompt to act as the liaison API for NHAI highway pilots and Deendayal Port data ingestion.
+Build the 'Pilot Proposal' generator in src/docs/nhai-brief-gen.js. [span_20](start_span)[span_21](start_span)This module must pull real accuracy and cost-per-lane metrics from the kup-ai-stack and format them into a formal NHAI technical brief[span_20](end_span)[span_21](end_span). [span_22](start_span)constraints: Specifically highlight the 40% reduction in blowout risk through under-inflation detection[span_22](end_span). [span_23](start_span)Ensure the document includes the "Reference Architecture" for extreme climates as specified in Research Output 3[span_23](end_span).
 
 RULES
 1. Audit touched files first and identify regressions.
