@@ -1,9 +1,9 @@
-Branch: simba/build-the-sovereign-payout-engine-in-srcfindao-s
-Title: Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
+Branch: simba/implement-the-fleet-intelligence-api-in-srcapifl
+Title: Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. C...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
+- Goal: Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. Create a multi-tenant dashboard where logistics managers can view aggregated RUL (Remaining Useful Life) data for their specific VINs.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
