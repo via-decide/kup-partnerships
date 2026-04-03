@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'State Expansion Pitcher' in src/expansion/government-pitch-gen.js. This tool must adapt the NHAI safety data to specific regional climates (e.g., high humidity for Maharashtra ports or extreme heat for Rajasthan highways). [span_1](start_span)constraints: Every pitch must lead with the "40% blowout prevention" metric[span_1](end_span) [span_2](start_span)[span_3](start_span)and the "Reference Architecture" proven at Deendayal Port[span_2](end_span)[span_3](end_span). Log each generated pitch in the Sovereign theme.
+Create the 'National Rollout Blueprint' generator in src/docs/rollout-architect.js. [span_18](start_span)[span_19](start_span)This tool compiles the 'Reference Architecture' for extreme-climate AI, including edge-inference cost benchmarks and the 40% blowout prevention statistics.[span_18](end_span)[span_19](end_span) [span_20](start_span)[span_21](start_span)constraints: Ensure the output is formatted as a formal government prospectus, highlighting the successful pilot results from the NHAI 1-km site and Deendayal Port.[span_20](end_span)[span_21](end_span)
 
 RULES
 1. Audit touched files first and identify regressions.
