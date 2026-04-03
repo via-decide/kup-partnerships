@@ -1,7 +1,7 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. Calculate the service quote based on vehicle distance, severity of the $RUL$, and local shop availability.
+Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
 
 CONSTRAINTS
 Preserve existing code; prefer additive changes.

@@ -1,9 +1,9 @@
-Branch: simba/implement-the-dynamic-quote-logic-in-srcbridgepr
-Title: Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. ...
+Branch: simba/implement-the-insurance-oracle-in-srcfinpremium-
+Title: Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. Calculate the service quote based on vehicle distance, severity of the $RUL$, and local shop availability.
+- Goal: Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
