@@ -1,9 +1,9 @@
-Branch: simba/implement-the-daxini-storefront-api-in-srcapimar
-Title: Implement the 'Daxini Storefront API' in src/api/market-gate.js. Crea...
+Branch: simba/implement-the-dynamic-quote-logic-in-srcbridgepr
+Title: Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. ...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Daxini Storefront API' in src/api/market-gate.js. Create a metered access point for the 'KUTCH-TIRE-ANOMALY-1M' dataset.
+- Goal: Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. Calculate the service quote based on vehicle distance, severity of the $RUL$, and local shop availability.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
