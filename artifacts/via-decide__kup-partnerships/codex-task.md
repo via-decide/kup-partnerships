@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'B2B Anomaly Dashboard' in src/web/infra-alpha.js. Create a real-time view that filters out the "Scenario 2" noise and only displays "Validated Anomalies" (High-probability blowout risks).
+Implement the 'ONDC Revenue Simulator' in src/bridge/revenue-test.js. For every confirmed anomaly on the NH-41 stretch, simulate a service request to the nearest Kutch tyre shop and calculate the 'Safety Commission.'
 
 CONSTRAINTS
-- Use the Sovereign dark-mode theme. - Integrate a "Human-in-the-Loop" button that allows a mentor or admin to verify a recovery event. - Log "SHADOW REVENUE: ₹[X]" based on the ONDC commerce hooks.
+Log "SHADOW REVENUE GENERATED: ₹[X]". This must be the primary metric for the 'Sovereign' Friday Sync report.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'B2B Anomaly Dashboard' in src/web/infra-alpha.js. Create a real-time view that filters out the "Scenario 2" noise and only displays "Validated Anomalies" (High-probability blowout risks).
+Implement the 'ONDC Revenue Simulator' in src/bridge/revenue-test.js. For every confirmed anomaly on the NH-41 stretch, simulate a service request to the nearest Kutch tyre shop and calculate the 'Safety Commission.'
 
 RULES
 1. Audit touched files first and identify regressions.
