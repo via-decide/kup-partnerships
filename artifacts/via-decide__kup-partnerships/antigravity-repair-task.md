@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
+Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
 
 RULES
 1. Audit touched files first and identify regressions.

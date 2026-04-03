@@ -1,9 +1,9 @@
-Branch: simba/implement-the-insurance-oracle-in-srcfinpremium-
-Title: Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Crea...
+Branch: simba/build-the-sovereign-payout-engine-in-srcfindao-s
+Title: Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
+- Goal: Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

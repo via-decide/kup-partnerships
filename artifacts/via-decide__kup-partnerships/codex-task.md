@@ -1,7 +1,7 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'Insurance-Oracle' in src/fin/premium-adjuster.js. Create a secure API that shares the 'Safety-Score' of a vehicle with a whitelisted Insurance partner.
+Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
 
 CONSTRAINTS
 Preserve existing code; prefer additive changes.
