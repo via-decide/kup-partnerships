@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. When the KUP backend detects a "Critical Under-Inflation" event, trigger a request to the ViaDecide ONDC engine to find the nearest repair facility.
+Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Create a high-signal visualization that tracks: 1) Total Highway Miles Monitored, 2) Total Blowouts Prevented (based on Shadow Mode data), and 3) Total Carbon Footprint reduction from optimized tire maintenance.
 
 RULES
 1. Audit touched files first and identify regressions.
