@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Pilot Site Mapper' in src/docs/site-survey-gen.js. [span_15](start_span)[span_16](start_span)This tool must generate a technical layout for a 1-km stretch of highway, detailing where sensors, edge nodes (Jetson Orins), and cabinets will be placed[span_15](end_span)[span_16](end_span). [span_17](start_span)constraints: Include cost-per-lane quantifications as required for NHAI negotiations[span_17](end_span). Output the report as a "Sovereign Infrastructure Prospectus."
+Build the 'Partner Case Study' generator in src/docs/nvidia-case-study.js. This module must pull hardware-in-the-loop (HITL) metrics-specifically power efficiency, GPU utilization, and accuracy under 48°C heat-and format them for an NVIDIA DeepStream/Jetson case study.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Automatically include a section on "Kutch-Extreme-Climate" performance. Use the Sovereign theme to log "CASE STUDY DATA PACKED FOR PARTNER REVIEW".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
