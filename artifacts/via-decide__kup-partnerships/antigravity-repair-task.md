@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Kutch-Discovery Scraper' in src/data/local-discovery.js. Populate the ONDC mock-registry with the coordinates and service profiles of the first 50 tyre-repair stations along the NH-41 (Kutch/Anjar stretch).
+Implement the 'B2B Anomaly Dashboard' in src/web/infra-alpha.js. Create a real-time view that filters out the "Scenario 2" noise and only displays "Validated Anomalies" (High-probability blowout risks).
 
 RULES
 1. Audit touched files first and identify regressions.
