@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'B2B Intake Service' in src/services/hanuman-intake.js. Develop a secure lead-generation API that captures MSME requirements (e.g., Excel automation, ONDC onboarding).
+Build the 'Pilot Site Mapper' in src/docs/site-survey-gen.js. [span_15](start_span)[span_16](start_span)This tool must generate a technical layout for a 1-km stretch of highway, detailing where sensors, edge nodes (Jetson Orins), and cabinets will be placed[span_15](end_span)[span_16](end_span). [span_17](start_span)constraints: Include cost-per-lane quantifications as required for NHAI negotiations[span_17](end_span). Output the report as a "Sovereign Infrastructure Prospectus."
 
 RULES
 1. Audit touched files first and identify regressions.
