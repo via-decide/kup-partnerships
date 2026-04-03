@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Pilot Proposal' generator in src/docs/nhai-brief-gen.js. [span_20](start_span)[span_21](start_span)This module must pull real accuracy and cost-per-lane metrics from the kup-ai-stack and format them into a formal NHAI technical brief[span_20](end_span)[span_21](end_span). [span_22](start_span)constraints: Specifically highlight the 40% reduction in blowout risk through under-inflation detection[span_22](end_span). [span_23](start_span)Ensure the document includes the "Reference Architecture" for extreme climates as specified in Research Output 3[span_23](end_span).
+Build the 'Kistler Hardware Bridge' in src/integration/kistler-validator.js. Develop a calibration service that compares raw data from physical Kistler sensors against the Digital Twin's ground truth.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Use the Sovereign theme to log "PARTNER VALIDATION ACTIVE." The output must generate a "Sensor Fidelity Report" that can be shared with Kistler and NVIDIA to verify that the Zayvora LLM correctly interprets high-precision load-cell data.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
