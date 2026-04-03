@@ -1,9 +1,9 @@
-Branch: simba/build-the-sovereign-liquidity-pool-in-srcfinpool
-Title: Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
+Branch: simba/implement-the-infrastructure-export-gateway-in-s
+Title: Implement the 'Infrastructure Export Gateway' in src/global/export-ad...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
+- Goal: Implement the 'Infrastructure Export Gateway' in src/global/export-adapter.js.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
