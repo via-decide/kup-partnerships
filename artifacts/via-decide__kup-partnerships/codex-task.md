@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Sovereign-Payout' engine in src/fin/dao-settlement.js.
+Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. Create a multi-tenant dashboard where logistics managers can view aggregated RUL (Remaining Useful Life) data for their specific VINs.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+- Use the 'Sovereign-ID' for secure multi-tenancy. - Log "FLEET SYNC: [COMPANY_ID] | [X] VEHICLES MONITORED" in the terminal. - Integrate a 'Billing-Hook' that charges per 'Safety-Scan' (0.50 INR per vehicle, a 50x profit on your Gemini cost).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
