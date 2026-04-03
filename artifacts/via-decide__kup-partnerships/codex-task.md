@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
+Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+- Implement a 'Stake-for-Safety' mechanism.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

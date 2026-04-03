@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
+Build the 'Sovereign-Liquidity-Pool' in src/fin/pool-engine.js.
 
 RULES
 1. Audit touched files first and identify regressions.
