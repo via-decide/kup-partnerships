@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Daxini Storefront API' in src/api/market-gate.js. Create a metered access point for the 'KUTCH-TIRE-ANOMALY-1M' dataset.
+Implement the 'Dynamic-Quote' logic in src/bridge/pricing-engine.js. Calculate the service quote based on vehicle distance, severity of the $RUL$, and local shop availability.
 
 RULES
 1. Audit touched files first and identify regressions.
