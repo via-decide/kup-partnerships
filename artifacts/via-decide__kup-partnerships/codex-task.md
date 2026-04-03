@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Build the 'Kistler Hardware Bridge' in src/integration/kistler-validator.js. Develop a calibration service that compares raw data from physical Kistler sensors against the Digital Twin's ground truth.
+Create the 'B2B Intake Service' in src/services/hanuman-intake.js. Develop a secure lead-generation API that captures MSME requirements (e.g., Excel automation, ONDC onboarding).
 
 CONSTRAINTS
-Use the Sovereign theme to log "PARTNER VALIDATION ACTIVE." The output must generate a "Sensor Fidelity Report" that can be shared with Kistler and NVIDIA to verify that the Zayvora LLM correctly interprets high-precision load-cell data.
+Integrate a PhonePe "Commitment Fee" (₹500) that must be paid before the request is sent to your admin dashboard. [span_5](start_span)This filters for "serious" business leads only, protecting your 'Decision Budget'[span_5](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

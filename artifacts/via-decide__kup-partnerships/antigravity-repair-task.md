@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Kistler Hardware Bridge' in src/integration/kistler-validator.js. Develop a calibration service that compares raw data from physical Kistler sensors against the Digital Twin's ground truth.
+Create the 'B2B Intake Service' in src/services/hanuman-intake.js. Develop a secure lead-generation API that captures MSME requirements (e.g., Excel automation, ONDC onboarding).
 
 RULES
 1. Audit touched files first and identify regressions.

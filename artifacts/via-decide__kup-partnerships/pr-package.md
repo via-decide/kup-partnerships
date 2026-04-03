@@ -1,9 +1,9 @@
-Branch: simba/build-the-kistler-hardware-bridge-in-srcintegrat
-Title: Build the 'Kistler Hardware Bridge' in src/integration/kistler-valida...
+Branch: simba/create-the-b2b-intake-service-in-srcserviceshanu
+Title: Create the 'B2B Intake Service' in src/services/hanuman-intake.js. De...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Kistler Hardware Bridge' in src/integration/kistler-validator.js. Develop a calibration service that compares raw data from physical Kistler sensors against the Digital Twin's ground truth.
+- Goal: Create the 'B2B Intake Service' in src/services/hanuman-intake.js. Develop a secure lead-generation API that captures MSME requirements (e.g., Excel automation, ONDC onboarding).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
