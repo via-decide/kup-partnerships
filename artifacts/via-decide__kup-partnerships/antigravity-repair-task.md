@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This agent must pull the following metrics: 1) Unit Cost per Passage, 2) Token Efficiency (97%), and 3) Physical Drift Accuracy (92%).
+Implement the 'Daxini Storefront API' in src/api/market-gate.js. Create a metered access point for the 'KUTCH-TIRE-ANOMALY-1M' dataset.
 
 RULES
 1. Audit touched files first and identify regressions.
