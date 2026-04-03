@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Fleet Revenue Manager' in src/billing/revenue-dashboard.js. Create a multi-region view that tracks real-time revenue from 20+ lanes. It must calculate uptime, detection accuracy per lane, and generate automated invoices for NHAI or private highway operators.
+Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [span_10](start_span)When the KUP system detects a high volume of tire anomalies (under-inflation), trigger a 'ViaDecide' request to find the nearest ONDC-listed tire repair services or inventory[span_10](end_span).
 
 RULES
 1. Audit touched files first and identify regressions.
