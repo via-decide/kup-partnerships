@@ -1,9 +1,9 @@
-Branch: simba/develop-the-commerce-strategy-bridge-in-srcbridg
-Title: Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. Wh...
+Branch: simba/build-the-sovereign-safety-dashboard-in-srcwebpu
+Title: Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. When the KUP backend detects a "Critical Under-Inflation" event, trigger a request to the ViaDecide ONDC engine to find the nearest repair facility.
+- Goal: Build the 'Sovereign Safety Dashboard' in src/web/public-kpi.js. Create a high-signal visualization that tracks: 1) Total Highway Miles Monitored, 2) Total Blowouts Prevented (based on Shadow Mode data), and 3) Total Carbon Footprint reduction from optimized tire maintenance.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
