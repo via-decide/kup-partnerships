@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'Kutch-Discovery Scraper' in src/data/local-discovery.js. Populate the ONDC mock-registry with the coordinates and service profiles of the first 50 tyre-repair stations along the NH-41 (Kutch/Anjar stretch).
+Implement the 'B2B Anomaly Dashboard' in src/web/infra-alpha.js. Create a real-time view that filters out the "Scenario 2" noise and only displays "Validated Anomalies" (High-probability blowout risks).
 
 CONSTRAINTS
-When the 'First Passage Validator' detects an anomaly, the system must now output: "ACTION: Recommended Service at [Shop Name], [Distance] km away." Use the Sovereign theme to log "LOCAL COMMERCE LINKED".
+- Use the Sovereign dark-mode theme. - Integrate a "Human-in-the-Loop" button that allows a mentor or admin to verify a recovery event. - Log "SHADOW REVENUE: ₹[X]" based on the ONDC commerce hooks.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
