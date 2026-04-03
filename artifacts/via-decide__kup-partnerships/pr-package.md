@@ -1,9 +1,9 @@
-Branch: simba/implement-the-service-intent-gateway-in-srcbridg
-Title: Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js....
+Branch: simba/build-the-revenue-ledger-in-srcfinsettlement-eng
+Title: Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatic...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js. When the 'Hysteresis Machine' confirms a CRITICAL anomaly, generate a signed ONDC "Request for Quote" (RFQ) for the 3 nearest tyre repair facilities in Anjar/Kutch.
+- Goal: Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatically calculate the "Economic Value Added" (EVA) for every confirmed anomaly.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
