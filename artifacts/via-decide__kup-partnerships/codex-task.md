@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [span_10](start_span)When the KUP system detects a high volume of tire anomalies (under-inflation), trigger a 'ViaDecide' request to find the nearest ONDC-listed tire repair services or inventory[span_10](end_span).
+Build the 'Investor Data-Room' utility in src/finance/investor-pack.js. [span_11](start_span)[span_12](start_span)This module aggregates real-world uptime, ₹10+ crore revenue metrics, and the 40% reduction in blowout risk statistics into a secure, read-only dashboard. [cite: 18-19, 43]
 
 CONSTRAINTS
-This creates the "Raw Data → Actionable Strategy" loop. The bridge must charge a micro-commission on successful service discovery matches once the system moves to Month 4+ scaling.
+Use the Sovereign theme to log "CONFIDENTIAL: INVESTOR DATA-PACK GENERATED." [cite_start]Ensure the 'Research Path's' 10K+ dataset citations are highlighted as a primary intellectual property moat.[span_11](end_span)[span_12](end_span)
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

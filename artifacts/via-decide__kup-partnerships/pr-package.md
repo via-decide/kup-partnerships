@@ -1,9 +1,9 @@
-Branch: simba/develop-the-ondc-commerce-bridge-in-srccommerceo
-Title: Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [s...
+Branch: simba/build-the-investor-data-room-utility-in-srcfinan
+Title: Build the 'Investor Data-Room' utility in src/finance/investor-pack.j...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Develop the 'ONDC Commerce Bridge' in src/commerce/ondc-bridge.js. [span_10](start_span)When the KUP system detects a high volume of tire anomalies (under-inflation), trigger a 'ViaDecide' request to find the nearest ONDC-listed tire repair services or inventory[span_10](end_span).
+- Goal: Build the 'Investor Data-Room' utility in src/finance/investor-pack.js. [span_11](start_span)[span_12](start_span)This module aggregates real-world uptime, ₹10+ crore revenue metrics, and the 40% reduction in blowout risk statistics into a secure, read-only dashboard. [cite: 18-19, 43]
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
