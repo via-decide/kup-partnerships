@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-partnerships",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-kistler-hardware-bridge-in-srcintegrat",
+  "branch": "simba/create-the-b2b-intake-service-in-srcserviceshanu",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
