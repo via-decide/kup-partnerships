@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Partner Validation Portal' in src/integration/partner-portal.js. [span_2](start_span)[span_3](start_span)Create a secure, read-only interface for NVIDIA and Kistler to review 'Scenario 2' recovery logs and HITL (Hardware-In-The-Loop) performance data.[span_2](end_span)[span_3](end_span) [span_4](start_span)[span_5](start_span)constraints: The portal must show real-time temperature drift correlations ($20-48^{\circ}C$) to prove the robustness of the Vora model on the Jetson Orin NX hardware.[span_4](end_span)[span_5](end_span)
+Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. When the KUP backend detects a "Critical Under-Inflation" event, trigger a request to the ViaDecide ONDC engine to find the nearest repair facility.
 
 RULES
 1. Audit touched files first and identify regressions.

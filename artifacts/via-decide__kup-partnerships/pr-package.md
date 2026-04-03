@@ -1,9 +1,9 @@
-Branch: simba/implement-the-partner-validation-portal-in-srcin
-Title: Implement the 'Partner Validation Portal' in src/integration/partner-...
+Branch: simba/develop-the-commerce-strategy-bridge-in-srcbridg
+Title: Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. Wh...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Partner Validation Portal' in src/integration/partner-portal.js. [span_2](start_span)[span_3](start_span)Create a secure, read-only interface for NVIDIA and Kistler to review 'Scenario 2' recovery logs and HITL (Hardware-In-The-Loop) performance data.[span_2](end_span)[span_3](end_span) [span_4](start_span)[span_5](start_span)constraints: The portal must show real-time temperature drift correlations ($20-48^{\circ}C$) to prove the robustness of the Vora model on the Jetson Orin NX hardware.[span_4](end_span)[span_5](end_span)
+- Goal: Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. When the KUP backend detects a "Critical Under-Inflation" event, trigger a request to the ViaDecide ONDC engine to find the nearest repair facility.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
