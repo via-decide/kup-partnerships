@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. Create a multi-tenant dashboard where logistics managers can view aggregated RUL (Remaining Useful Life) data for their specific VINs.
+Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
 
 RULES
 1. Audit touched files first and identify regressions.

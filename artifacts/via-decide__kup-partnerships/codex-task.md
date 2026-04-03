@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. Create a multi-tenant dashboard where logistics managers can view aggregated RUL (Remaining Useful Life) data for their specific VINs.
+Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
 
 CONSTRAINTS
-- Use the 'Sovereign-ID' for secure multi-tenancy. - Log "FLEET SYNC: [COMPANY_ID] | [X] VEHICLES MONITORED" in the terminal. - Integrate a 'Billing-Hook' that charges per 'Safety-Scan' (0.50 INR per vehicle, a 50x profit on your Gemini cost).
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

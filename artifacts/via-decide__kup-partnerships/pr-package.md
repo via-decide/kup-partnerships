@@ -1,9 +1,9 @@
-Branch: simba/implement-the-fleet-intelligence-api-in-srcapifl
-Title: Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. C...
+Branch: simba/build-the-carbon-credit-oracle-in-srcfinsustaina
+Title: Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calcul...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'Fleet-Intelligence-API' in src/api/fleet-gateway.js. Create a multi-tenant dashboard where logistics managers can view aggregated RUL (Remaining Useful Life) data for their specific VINs.
+- Goal: Build the 'Carbon-Credit-Oracle' in src/fin/sustainability.js. Calculate the metric tons of $CO_2$ saved by maintaining optimal tire pressure across the 1M passages.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
