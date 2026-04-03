@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Implement the 'Partner Validation Portal' in src/integration/partner-portal.js. [span_2](start_span)[span_3](start_span)Create a secure, read-only interface for NVIDIA and Kistler to review 'Scenario 2' recovery logs and HITL (Hardware-In-The-Loop) performance data.[span_2](end_span)[span_3](end_span) [span_4](start_span)[span_5](start_span)constraints: The portal must show real-time temperature drift correlations ($20-48^{\circ}C$) to prove the robustness of the Vora model on the Jetson Orin NX hardware.[span_4](end_span)[span_5](end_span)
+Develop the 'Commerce Strategy Bridge' in src/bridge/ondc-link.js. When the KUP backend detects a "Critical Under-Inflation" event, trigger a request to the ViaDecide ONDC engine to find the nearest repair facility.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+This is the "Monetization Hook" for Path 1. The bridge must calculate a potential "Commission Saved" metric for the fleet owner based on blowout prevention.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
