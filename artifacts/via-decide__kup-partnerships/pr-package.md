@@ -1,9 +1,9 @@
-Branch: simba/implement-the-ondc-revenue-simulator-in-srcbridg
-Title: Implement the 'ONDC Revenue Simulator' in src/bridge/revenue-test.js....
+Branch: simba/implement-the-service-intent-gateway-in-srcbridg
+Title: Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js....
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Implement the 'ONDC Revenue Simulator' in src/bridge/revenue-test.js. For every confirmed anomaly on the NH-41 stretch, simulate a service request to the nearest Kutch tyre shop and calculate the 'Safety Commission.'
+- Goal: Implement the 'Service Intent Gateway' in src/bridge/ondc-booking.js. When the 'Hysteresis Machine' confirms a CRITICAL anomaly, generate a signed ONDC "Request for Quote" (RFQ) for the 3 nearest tyre repair facilities in Anjar/Kutch.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

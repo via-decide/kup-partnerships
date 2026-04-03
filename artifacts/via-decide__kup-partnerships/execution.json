@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-partnerships",
   "mode": "codex_then_antigravity",
-  "branch": "simba/implement-the-ondc-revenue-simulator-in-srcbridg",
+  "branch": "simba/implement-the-service-intent-gateway-in-srcbridg",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
