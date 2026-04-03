@@ -1,9 +1,9 @@
-Branch: simba/build-the-pitch-deck-agent-in-srcagentsseries-a-
-Title: Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This age...
+Branch: simba/implement-the-daxini-storefront-api-in-srcapimar
+Title: Implement the 'Daxini Storefront API' in src/api/market-gate.js. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This agent must pull the following metrics: 1) Unit Cost per Passage, 2) Token Efficiency (97%), and 3) Physical Drift Accuracy (92%).
+- Goal: Implement the 'Daxini Storefront API' in src/api/market-gate.js. Create a metered access point for the 'KUTCH-TIRE-ANOMALY-1M' dataset.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
