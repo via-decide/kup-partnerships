@@ -1,9 +1,9 @@
-Branch: simba/build-the-revenue-ledger-in-srcfinsettlement-eng
-Title: Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatic...
+Branch: simba/build-the-pitch-deck-agent-in-srcagentsseries-a-
+Title: Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This age...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-partnerships
-- Goal: Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatically calculate the "Economic Value Added" (EVA) for every confirmed anomaly.
+- Goal: Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This agent must pull the following metrics: 1) Unit Cost per Passage, 2) Token Efficiency (97%), and 3) Physical Drift Accuracy (92%).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
