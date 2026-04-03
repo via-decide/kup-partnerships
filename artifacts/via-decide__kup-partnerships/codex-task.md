@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-partnerships on branch main.
 
 MISSION
-Design the Industry Partnership Model. INFRASTRUCTURE PARTNER: National Highways Authority of India (NHAI)
+Build 'The Integration Specialist' Agent Template in src/templates/integration-specialist.json. Configure the prompt to act as the liaison API for NHAI highway pilots and Deendayal Port data ingestion.
 
 CONSTRAINTS
-Partnerships must be formalized by Week 2 (signed MOU or LOI). Each partnership should contribute <1 FTE work (not hand-holding).
+Only accept data formatted to the specific JSON schemas required by external government and port hardware standards.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
