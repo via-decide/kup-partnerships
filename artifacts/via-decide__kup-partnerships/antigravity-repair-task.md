@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Revenue Ledger' in src/fin/settlement-engine.js. Automatically calculate the "Economic Value Added" (EVA) for every confirmed anomaly.
+Build the 'Pitch-Deck Agent' in src/agents/series-a-deck.js. This agent must pull the following metrics: 1) Unit Cost per Passage, 2) Token Efficiency (97%), and 3) Physical Drift Accuracy (92%).
 
 RULES
 1. Audit touched files first and identify regressions.
